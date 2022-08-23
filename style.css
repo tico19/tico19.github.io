@@ -1,7 +1,7 @@
 body {
 	background: White;
 	color: Black;
-	width: 180mm;
+	max-width: 180mm;
 	margin: auto;
 }
 .maintitle {
