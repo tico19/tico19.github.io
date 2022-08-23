@@ -3,6 +3,7 @@ body {
 	color: Black;
 	max-width: 180mm;
 	margin: auto;
+  padding: 5px;
 }
 .maintitle {
 	text-align: center;
